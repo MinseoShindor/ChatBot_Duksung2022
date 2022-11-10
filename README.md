@@ -1,6 +1,6 @@
 # ChatBot_Duksung2022
 
-## Title 
+## Title 💻
 
 <p align="center">
   <br>
@@ -8,6 +8,12 @@
   <br>
 </p>
 <br>
+
+## Skills 💻
+
+<p align="center">
+  <프론트> 
+    카카오톡 오픈빌더를 이용한 챗봇 
 
 
 
